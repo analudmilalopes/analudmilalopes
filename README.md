@@ -17,11 +17,11 @@
 
 <div>
   <p align="left">
-  <a href="ludmilalopes416@gmail.com" title="Gmail">
-  <img  src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white&" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" title="LinkedIn">
+  <a href="ludmilalopes416@gmail.com" target="blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white&" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" target="blank" title="LinkedIn">
   <img  src="https://img.shields.io/badge/-Linkedin-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=Linkedin&logoColor=white&" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/ludd_loopes/" title="Instagram">
+    <a href="https://www.instagram.com/ludd_loopes/" target="blank" title="Instagram">
   <img  src="https://img.shields.io/badge/-Instagram-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=instagram&logoColor=white&" alt="Instagram"/></a>
 </p>
 </div>
