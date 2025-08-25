@@ -1,4 +1,4 @@
-## Sou a Ana Ludmila e tenho 18 anos!
+<p>Olá! Sou a Ana Ludmila, tenho 18 anos, formada em Técnico em Informática e sempre buscando aprender e colocar em prática meus conhecimentos!!💻</p>
 
 <div>
   <a href="https://github.com/analudmilalopes">
@@ -25,11 +25,14 @@
     <a href="https://www.instagram.com/ludd_loopes/" alt="ludmila.instagram" title="Instagram">
   <img  src="https://img.shields.io/badge/-Instagram-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=instagram&logoColor=white&" alt="Instagram"/></a>
 </p>
-</div>
+</div><br>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg">
 </picture>
+
+>### "Somos o que fazemos repetidamente. A excelência então não é um ato, mas um _hábito_." 🔱
 
