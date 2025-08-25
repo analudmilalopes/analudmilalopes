@@ -1,9 +1,9 @@
-## Hi there 👋
+## Sou a Ana Ludmila e tenho 18 anos!
 
 <div>
   <a href="https://github.com/analudmilalopes">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=analudmilalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analudmilalopes&layout=compact&langs_count=168&theme=tokyonight"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=analudmilalopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analudmilalopes&layout=compact&langs_count=168&theme=radical"/>
 
 </div>
 
@@ -18,11 +18,11 @@
 <div>
   <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-5e4b8b?style=flat-square&labelColor=5e4b8b&logo=gmail&logoColor=white&link=ludmilalopes416@gmail.com" alt="Gmail"/></a>
+  <img  src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white&link=ludmilalopes416@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-5e4b8b?style=flat-square&labelColor=5e4b8b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" alt="LinkedIn"/></a>
+  <img  src="https://img.shields.io/badge/-Linkedin-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" alt="LinkedIn"/></a>
     <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-5e4b8b?style=flat-square&labelColor=5e4b8b&logo=instagram&logoColor=white&link=https://www.instagram.com/ludd_loopes/" alt="Instagram"/></a>
+  <img  src="https://img.shields.io/badge/-Instagram-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=instagram&logoColor=white&link=https://www.instagram.com/ludd_loopes/" alt="Instagram"/></a>
 </p>
 </div>
 
