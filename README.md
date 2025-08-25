@@ -15,18 +15,16 @@
    <img align="right" alt="ludmila.gif" height="400px" width="300px" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif"></img>
 </div><br><br>
 
+
 <div>
   <p align="left">
-    <a href="mailto:ludmilalopes416@gmail.com" target="_blank" title="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" target="_blank" title="LinkedIn">
-      <img src="https://img.shields.io/badge/-LinkedIn-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.instagram.com/ludd_loopes/" target="_blank" title="Instagram">
-      <img src="https://img.shields.io/badge/-Instagram-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
+  <a href="mailto:ludmilalopes416@gmail.com" alt="ludmila.gmail" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white&" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ana-ludmila-lopes-b4a0a62a5/" alt="ludmila.linkedin" title="LinkedIn">
+  <img  src="https://img.shields.io/badge/-Linkedin-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=Linkedin&logoColor=white&" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/ludd_loopes/" alt="ludmila.instagram" title="Instagram">
+  <img  src="https://img.shields.io/badge/-Instagram-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=instagram&logoColor=white&" alt="Instagram"/></a>
+</p>
 </div>
 
 <picture>
