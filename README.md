@@ -1,4 +1,4 @@
-<p>Olá! Sou a Ana Ludmila, tenho 18 anos, formada em Técnico em Informática e sempre buscando aprender e colocar em prática meus conhecimentos!!💻</p>
+<p>Oii, sou a Ana Ludmila e tenho 19 anos. Estou sempre buscando aprender e colocar em prática meus conhecimentos!!💻</p>
 
 <div>
   <a href="https://github.com/analudmilalopes">
