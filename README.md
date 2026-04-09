@@ -1,4 +1,5 @@
-<p>Sou a Ana Ludmila e estou sempre buscando evoluir e colocar em prática meus conhecimentos!!💻</p>
+### "Somos o que fazemos repetidamente. A excelência então não é um ato, mas um _hábito_." 🔱
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ludmila.HTML" height="30px" width="30px" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img align="center" alt="ludmila.CSS" height="30px" width="30px" src="https://devicon-website.vercel.app/api/css3/original.svg">
@@ -22,4 +23,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg">
 </picture>
 
-### "Somos o que fazemos repetidamente. A excelência então não é um ato, mas um _hábito_." 🔱
+
