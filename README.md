@@ -4,8 +4,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="ludmila.HTML" height="30px" width="30px" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
   <img align="center" alt="ludmila.CSS" height="30px" width="30px" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-  <img alt="Java" height="30px" width="30px" src="[https://cdn.simpleicons.org/openjdk/007396](https://github.com/gui-bus/TechIcons/blob/main/Light/Java.svg)"></img>
-  <div>
+  <img alt="Java" height="30px" width="30px" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
+  <div><br>
+    
   <p align="left">
   <a href="mailto:ludmilalopes415@gmail.com" alt="ludmila.gmail" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-5e4b8b?style=for-the-badge&labelColor=5e4b8b&logo=gmail&logoColor=white&" alt="Gmail"/></a>
@@ -14,7 +15,7 @@
 </p>
 </div><br>
   
-   <img align="right" alt="ludmila.gif" height="400px" width="500px" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif"></img>
+   <img align="center" alt="ludmila.gif" height="400px" width="500px" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif"></img>
 </div><br><br>
 
 
