@@ -15,7 +15,7 @@
 </p>
 </div><br>
   
-   <img align="center" alt="ludmila.gif" height="400px" width="500px" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif"></img>
+   <img align="center" padding-left="60px" alt="ludmila.gif" height="400px" width="500px" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif"></img>
 </div><br><br>
 
 
