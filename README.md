@@ -15,27 +15,18 @@
     height="60px" 
     width="60px" 
     src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img 
     align="center"
     alt="ludmila.HTML" 
     height="60px" 
     width="60px" 
     src="https://devicon-website.vercel.app/api/html5/original.svg">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img 
     align="center"
     alt="ludmila.CSS" 
     height="60px" 
     width="60px" 
     src="https://devicon-website.vercel.app/api/css3/original.svg">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img 
     align="center"
     alt="ludmila.Git" 
