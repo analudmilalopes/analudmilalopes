@@ -1,4 +1,5 @@
 ### "Somos o que fazemos repetidamente. A excelência então não é um ato, mas um _hábito_." 🔱
+<br>
 
 <div align="center">
   <img alt="ludmila.gif" height="400px" width="500px"
