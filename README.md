@@ -5,7 +5,7 @@
 </div><br><br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="ludmila.Java" padding-left="40px" height="60px" width="60px" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
+  <img align="center" alt="ludmila.Java" margin-left="40px" height="60px" width="60px" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
   <img align="center" alt="ludmila.HTML" height="60px" width="60px" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img align="center" alt="ludmila.CSS" height="60px" width="60px" src="https://devicon-website.vercel.app/api/css3/original.svg">
   <img align="center" alt="ludmila.Git" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
