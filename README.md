@@ -9,29 +9,44 @@
 
 <div align="center">
 
-  <img alt="ludmila.Java" height="60px" width="60px"
-  src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
+  <img 
+    align="center"
+    alt="ludmila.Java" 
+    height="60px" 
+    width="60px" 
+    src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
 
-  <img alt="ludmila.HTML" height="60px" width="60px"
-  src="https://devicon-website.vercel.app/api/html5/original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img alt="ludmila.CSS" height="60px" width="60px"
-  src="https://devicon-website.vercel.app/api/css3/original.svg">
+  <img 
+    align="center"
+    alt="ludmila.HTML" 
+    height="60px" 
+    width="60px" 
+    src="https://devicon-website.vercel.app/api/html5/original.svg">
 
-  <img alt="ludmila.Git" height="60px" width="60px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    align="center"
+    alt="ludmila.CSS" 
+    height="60px" 
+    width="60px" 
+    src="https://devicon-website.vercel.app/api/css3/original.svg">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    align="center"
+    alt="ludmila.Git" 
+    height="60px" 
+    width="60px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
 
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake-dark.svg">
+<br>
 
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation"
-  src="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analudmilalopes/analudmilalopes/output/github-contribution-grid-snake.svg"> </picture>
