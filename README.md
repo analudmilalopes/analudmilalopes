@@ -17,7 +17,7 @@
     width="60px" 
     src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Java.svg">
   <img
-    align="center"
+    alt="ludmila.PostgreSQL"
     height="60px" 
     width="60px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
